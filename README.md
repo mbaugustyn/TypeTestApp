@@ -9,6 +9,9 @@
     For example: "make run TIME=60"
 - Projects only requirement is Java 11.
 - Projects Class Diagram:
+
 ![ClassDiagram](./uml_presentation.png "Class diagram")
+
 - Project demo:
+ 
 ![ClassDiagram](./typemichal_demo.png "Project demo")
